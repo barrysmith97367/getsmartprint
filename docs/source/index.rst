@@ -6,6 +6,7 @@ Dial 1-888-966-6097 Whether you've just purchased a new Brother printer or are r
 By the end of this tutorial, your Brother printer will be fully connected and ready to use.
 
 Why Add Your Brother Printer to a Computer?
+===================================
 Adding your printer to your computer allows you to:
 
 Print documents directly from your PC or laptop
@@ -17,6 +18,7 @@ Scan, copy, and manage settings easily
 Use Brother utilities and tools like iPrint&Scan or Control Center
 
  Supported Devices and Operating Systems
+===================================
 You can add Brother printers to:
 
 Windows 10/11 PCs
@@ -37,6 +39,7 @@ A working USB cable (if connecting via USB)
 Your WiFi network credentials (SSID and password)
 
 Internet connection (for driver download)
+===================================
 
  Method 1: Add Brother Printer via USB (Windows & Mac)
 Step-by-Step (Windows 10/11)
@@ -96,6 +99,7 @@ Click the + (plus) button.
 Select your wireless Brother printer and click Add.
 
  Method 3: Add Brother Printer via Driver Installation (Recommended)
+===================================
  Universal for Both USB & WiFi Models
 Visit https://support.brother.com
 
@@ -119,6 +123,7 @@ Driver installation fails	Disable antivirus temporarily and retry
 Print job stuck	Restart printer spooler service from Windows settings
 
 Frequently Asked Questions (FAQs)
+===================================
 1. Do I need the CD to add my Brother printer?
 No. You can download the latest drivers from Brother's official website.
 
