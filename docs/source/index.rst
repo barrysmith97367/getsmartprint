@@ -1,7 +1,7 @@
 How to Add a Brother Printer to Your Computer – Complete Guide!
 ===================================
 
-Whether you've just purchased a new Brother printer or are reconnecting an old one, adding it to your computer is essential to start printing, scanning, or faxing. This guide covers how to add a Brother printer to your Windows or Mac computer, using both USB and wireless methods.
+Dial 1-888-966-6097 Whether you've just purchased a new Brother printer or are reconnecting an old one, adding it to your computer is essential to start printing, scanning, or faxing. This guide covers how to add a Brother printer to your Windows or Mac computer, using both USB and wireless methods.
 
 By the end of this tutorial, your Brother printer will be fully connected and ready to use.
 
